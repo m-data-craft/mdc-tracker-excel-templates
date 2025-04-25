@@ -48,4 +48,4 @@ Helping people build better habits, learn smarter, and master everyday data — 
 ![Default view](./screenshot-1.png)
 
 ### A Custom view
-![Habit Tracker Simple - custom](./screenshot-2.png)
+![Habit Tracker Simple - custom](https://github.com/m-data-craft/mdc-tracker-excel-templates/blob/6837bee77b4663802f00ebc699681661ea9b3dd8/habit-tracker-simple/A%20Custom%20view.png)
