@@ -12,7 +12,7 @@ A growing collection of useful, aesthetic, and practical templates created for:
 ## 📦 Available Templates
 | Template                     | Type       | Format            | Preview |
 |-----------------------------|------------|-------------------|---------|
-| [Habit Tracker (15-day)](./habit-tracker/) | Habit | Google Sheet, Excel | ![Preview](./habit-tracker/preview.png) |
+| [Habit Tracker Simple (15-day)](./habit-tracker-simple/) | Habit | Google Sheet, Excel | ![Preview](./habit-tracker/preview.png) |
 | [Study Tracker (Weekly)](./study-tracker/) | Learning | Google Sheet | Coming Soon |
 | [Monthly Budget Planner](./budget-planner/) | Finance | Excel | Coming Soon |
 
