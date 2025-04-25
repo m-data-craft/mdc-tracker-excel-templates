@@ -28,6 +28,6 @@ A growing collection of useful, aesthetic, and practical templates created for:
 ## 💬 Contact & Branding
 Follow the journey on:
 - Instagram: [@mdatacraft](https://instagram.com/mdatacraft)
-- LinkedIn: [yourname]
+- LinkedIn: [mdatacraft]
 
 ---
