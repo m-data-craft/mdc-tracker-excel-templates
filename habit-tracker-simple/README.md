@@ -44,8 +44,13 @@ Helping people build better habits, learn smarter, and master everyday data — 
 
 ## 📸 Screenshots
 
+
 ### Default Desktop view
-![Default view](./screenshot-1.png)
+<p align="center">
+  <img src="https://github.com/m-data-craft/mdc-tracker-excel-templates/blob/1a9a9970c2ac358efd8f73c008bc10a105fc32e9/habit-tracker-simple/Default%20Desktop%20view.png" alt="Habit Tracker Desktop" width="750"/>
+</p>
 
 ### A Custom view
-![Habit Tracker Simple - custom](https://github.com/m-data-craft/mdc-tracker-excel-templates/blob/6837bee77b4663802f00ebc699681661ea9b3dd8/habit-tracker-simple/A%20Custom%20view.png)
+<p align="center">
+  <img src="https://github.com/m-data-craft/mdc-tracker-excel-templates/blob/6837bee77b4663802f00ebc699681661ea9b3dd8/habit-tracker-simple/A%20Custom%20view.png" alt="Habit Tracker Desktop" width="750"/>
+</p>
